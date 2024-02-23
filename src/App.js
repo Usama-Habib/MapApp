@@ -19,7 +19,7 @@ function App() {
       style={{ width: '100vw', height: '100vh' }}
     >
       <TileLayer
-        url="https://api.maptiler.com/maps/basic-v2/256/{z}/{x}/{y}.png?key=wL8o1TmUNcPDncQl6y35"
+        url="https://api.maptiler.com/maps/basic-v2/256/{z}/{x}/{y}.png?key=PUT_YOUR_KEY_HERE"
         attribution='<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
       />
       {
